@@ -49,7 +49,7 @@
 
 ## 程式核心架構
 
-1. **InitializePoker**：動態產生 PictureBox 陣列，並建立事件連結。
+1.**InitializePoker**：動態產生 PictureBox 陣列，並建立事件連結。
 
 2.**Shuffle (洗牌)**：使用 Random 進行 1000 次元素交換，打亂 0~51 編號。
 
